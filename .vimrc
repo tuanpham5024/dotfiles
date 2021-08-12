@@ -29,6 +29,7 @@ Plug 'matze/vim-move'
 Plug 'joshdick/onedark.vim'
 Plug 'ryanoasis/vim-devicons'
 Plug 'terryma/vim-multiple-cursors'
+Plug 'preservim/nerdtree'
 
 call plug#end()
 
